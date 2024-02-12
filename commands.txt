@@ -2,3 +2,6 @@ Here I will mention the commands
 
 git init
 git status
+git add
+git restore
+git commit
