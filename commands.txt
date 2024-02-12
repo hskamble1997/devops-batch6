@@ -1,0 +1,4 @@
+Here I will mention the commands
+
+git init
+git status
